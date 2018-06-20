@@ -1,0 +1,2 @@
+CTRL+KS = Ouvre tout les raccourcis clavier sur Visual Code
+CTRL+ , = Ouvre les parametres Utilisateur pour Visual Code

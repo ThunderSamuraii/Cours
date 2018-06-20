@@ -1,0 +1,11 @@
+ls = Liste des fichiers dans le repertoire actuel
+cd = Pour changer de repertoire
+.. = Remonte au precedent repertoire
+pwd = Afficher le repetoire actuel
+mkdir = creer un dossier
+touch = creer un fichier
+git status = montre le statut du tracking 
+git add = ajoute le fichier specifié (*) prend tout les fichiers
+git commit -m = marque ce que vous avez fait sur le commit
+git push origin master = envoie le fichier a la master branche
+git pull origin master = ramene les fichiers de github en local
